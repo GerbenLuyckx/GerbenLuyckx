@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerben Luyckx</h1>
-<h3 align="center">A data-analyst</h3>
+<h3 align="center">A BIM-Consultant</h3>
 
 - 📫 How to reach me **gerbenluyckx@gmail.com**
 
